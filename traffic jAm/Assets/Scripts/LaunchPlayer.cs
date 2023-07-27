@@ -41,10 +41,15 @@ public class LaunchPlayer : MonoBehaviour
                 }
             } }
         
-
         if (pos.x >= 0.1)
         {
             Player.AddForce(new Vector3(0f, -((Player.mass * 9.81f)/5f), 0f));
-        } 
+        }
+
+        /*
+        if (Input.GetKey("space"))
+        {
+            Player.AddForce(new Vector3(5f, 0f, 0f));
+        } */
     }
 }

@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 4871341144402928563}
   - component: {fileID: 608449383949741476}
   - component: {fileID: 7664972051369884174}
+  - component: {fileID: 3270437016449463063}
   m_Layer: 0
-  m_Name: Plain Ground
+  m_Name: PlainGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -128,6 +129,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3270437016449463063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 889847215316185804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f325eaedec280e459fc2bf4a66e72c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &14478351859433749
 PrefabInstance:
   m_ObjectHideFlags: 0
