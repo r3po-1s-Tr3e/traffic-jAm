@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1708850330435481535}
   - component: {fileID: 3601639453829312507}
   - component: {fileID: 6196305839391850953}
+  - component: {fileID: 7474188103406153228}
   m_Layer: 0
   m_Name: GroundType4
   m_TagString: Untagged
@@ -143,6 +144,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 4
+--- !u!114 &7474188103406153228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6029953643409446846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea057c9ce241e6e459edf757533237fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bounciness: 0.2
+  MinBounce: 0
 --- !u!1001 &513022563433779321
 PrefabInstance:
   m_ObjectHideFlags: 0

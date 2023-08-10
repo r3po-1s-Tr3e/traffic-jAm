@@ -13,7 +13,7 @@ public class Dash : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            rb.velocity = new(rb.velocity.x, -DashSpeed, rb.velocity.z);
+            rb.velocity = new(rb.velocity.x, -rb.velocity.x*3, rb.velocity.z);
         }
     }
 }
