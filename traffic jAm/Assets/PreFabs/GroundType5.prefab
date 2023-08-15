@@ -305,6 +305,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bounce Object (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 468931249587244718, guid: 6ee61ea9cbf03874d96fb93753e6fa31, type: 3}
+      propertyPath: m_Size.x
+      value: 4.579593
+      objectReference: {fileID: 0}
+    - target: {fileID: 468931249587244718, guid: 6ee61ea9cbf03874d96fb93753e6fa31, type: 3}
+      propertyPath: m_Size.y
+      value: 2.4510233
+      objectReference: {fileID: 0}
+    - target: {fileID: 468931249587244718, guid: 6ee61ea9cbf03874d96fb93753e6fa31, type: 3}
+      propertyPath: m_Size.z
+      value: 2.5623884
+      objectReference: {fileID: 0}
+    - target: {fileID: 468931249587244718, guid: 6ee61ea9cbf03874d96fb93753e6fa31, type: 3}
+      propertyPath: m_Center.x
+      value: -0.4652701
+      objectReference: {fileID: 0}
+    - target: {fileID: 468931249587244718, guid: 6ee61ea9cbf03874d96fb93753e6fa31, type: 3}
+      propertyPath: m_Center.y
+      value: 0.7255119
+      objectReference: {fileID: 0}
+    - target: {fileID: 468931249587244718, guid: 6ee61ea9cbf03874d96fb93753e6fa31, type: 3}
+      propertyPath: m_Center.z
+      value: 0.13155673
+      objectReference: {fileID: 0}
     - target: {fileID: 4268932508573521241, guid: 6ee61ea9cbf03874d96fb93753e6fa31, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.036179032
